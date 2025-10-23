@@ -18,6 +18,14 @@
 
 ---
 
+## Open Source Contribution
+I enjoy contributing to open source. Over the years, i have contributed code to:
+  - [Canonical/cloud-init](https://github.com/canonical/cloud-init/pulls?q=is%3Apr+is%3Aclosed+author%3Acsemanish12)
+  - [Cadwyn](https://github.com/zmievsa/cadwyn/pulls?q=is%3Apr+is%3Aclosed+author%3Acsemanish12)
+  - [Google/gcp_scanner](https://github.com/google/gcp_scanner/pulls?q=is%3Apr+is%3Aclosed+author%3Acsemanish12)
+
+---
+
 ## 🛠 Tech Stack & Skills 
 **Programming:** Python, Flask, Django, Javascript, Node. 
 
