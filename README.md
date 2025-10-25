@@ -24,6 +24,7 @@ I enjoy contributing to open source. Over the years, i have contributed code to:
   - [Cadwyn](https://github.com/zmievsa/cadwyn/pulls?q=is%3Apr+is%3Aclosed+author%3Acsemanish12)
   - [Google/gcp_scanner](https://github.com/google/gcp_scanner/pulls?q=is%3Apr+is%3Aclosed+author%3Acsemanish12)
 
+[![An image of @csemanish12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/csemanish12)](https://holopin.io/@csemanish12)
 ---
 
 ## 🛠 Tech Stack & Skills 
