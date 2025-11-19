@@ -43,7 +43,7 @@ I enjoy contributing to open source. Over the years, i have contributed code to:
 ---
 
 ## 📊 GitHub Stats 
-![Neha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=csemanish12&show_icons=true&theme=radical)
+![Manish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=csemanish12&show_icons=true&theme=radical)
 
 ## 🔥 Most Used Languages 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csemanish12&layout=compact&theme=radical)
